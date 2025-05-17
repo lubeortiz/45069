@@ -1,5 +1,2 @@
 y = 0;
-while (y) {
-    console.log(y);
-    y = y + 1
-}
+console.log(y);
