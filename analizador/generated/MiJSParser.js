@@ -1,4 +1,4 @@
-// Generated from c:/Users/lucia/OneDrive/Documentos/2. SSL/analizador-usar/MiJS.g4 by ANTLR 4.13.2
+// Generated from c:/Users/lucia/OneDrive/Documentos/2. SSL/analizador-antlr4/analizador/MiJS.g4 by ANTLR 4.13.2
 // jshint ignore: start
 import antlr4 from 'antlr4';
 import MiJSListener from './MiJSListener.js';
